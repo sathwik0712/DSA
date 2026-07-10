@@ -18,3 +18,15 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 
 ## 📊 Automated Problem Index
 *The table below dynamically updates with my latest accepted submissions, categorized by topic and difficulty.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sathwik0712/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sathwik0712/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+<!---LeetCode Topics End-->
