@@ -28,6 +28,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sathwik0712/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sathwik0712/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sathwik0712/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sathwik0712/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sathwik0712/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sathwik0712/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sathwik0712/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sathwik0712/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
 | ------- |
