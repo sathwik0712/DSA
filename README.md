@@ -35,4 +35,12 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sathwik0712/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sathwik0712/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sathwik0712/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sathwik0712/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sathwik0712/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
