@@ -9,9 +9,8 @@ public:
             for(int j=1;j*j<=num;j++){
                 if(num%j==0){
                     divisorFreq[j]++;
-                    if(num/j!=j){
+                    if(num/j!=j)
                         divisorFreq[num/j]++;
-                    }
                 }
             }
         }
@@ -24,9 +23,8 @@ public:
             }
         }
         vector<long long>prefixcountgcd(maxVal+1,0);
-        for(int g=1;g<=maxVal;g++){
+        for(int g=1;g<=maxVal;g++)
             prefixcountgcd[g]=prefixcountgcd[g-1]+pairswithgcd[g];
-        }
         vector<int>result;
         for(long long idx:queries){
             int l=1,r=maxVal,temp=1;
