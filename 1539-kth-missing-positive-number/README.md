@@ -33,3 +33,18 @@
 <p><strong>Follow up:</strong></p>
 
 <p>Could you solve this problem in less than O(n) complexity?</p>
+<p> brute force with TC: O(n)
+class Solution {
+public:
+    int findKthPositive(vector<int>& arr, int k) {
+        vector<int>sol;
+        for(int i=0;i<arr.size();i++){
+            if(arr[i]<=k)
+                k++;
+            else
+                break;
+        }
+        return k;
+    }
+};
+</p>
