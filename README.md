@@ -40,6 +40,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sathwik0712/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sathwik0712/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sathwik0712/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/sathwik0712/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sathwik0712/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sathwik0712/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik0712/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -62,6 +63,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sathwik0712/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sathwik0712/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sathwik0712/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/sathwik0712/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sathwik0712/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -135,6 +137,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sathwik0712/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sathwik0712/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/sathwik0712/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
