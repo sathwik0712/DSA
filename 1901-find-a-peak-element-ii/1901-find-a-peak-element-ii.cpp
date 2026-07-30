@@ -20,15 +20,12 @@ public:
             int maxRowIndex=findMaxIndex(mat,n,m,mid);
             int left=mid-1 >=0? mat[maxRowIndex][mid-1]: INT_MIN;
             int right=mid+1<m? mat[maxRowIndex][mid+1]: INT_MIN;
-            if (mat[maxRowIndex][mid] > left && mat[maxRowIndex][mid] > right) {
-                  return {maxRowIndex, mid};
-              } 
-              else if (left > mat[maxRowIndex][mid]) {
-                  high = mid - 1;
-              } 
-              else {
-                  low = mid + 1;
-              }
+            if (mat[maxRowIndex][mid] > left && mat[maxRowIndex][mid] > right) 
+                return {maxRowIndex, mid}; 
+            else if (left > mat[maxRowIndex][mid])
+                high = mid - 1; 
+            else
+                low = mid + 1;
         }
         return {-1,-1};
     }
