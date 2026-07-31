@@ -42,6 +42,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [1539-kth-missing-positive-number](https://github.com/sathwik0712/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/sathwik0712/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sathwik0712/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/sathwik0712/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sathwik0712/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik0712/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -64,6 +65,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sathwik0712/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sathwik0712/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/sathwik0712/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/sathwik0712/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sathwik0712/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
