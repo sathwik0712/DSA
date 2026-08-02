@@ -35,6 +35,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0410-split-array-largest-sum](https://github.com/sathwik0712/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sathwik0712/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/sathwik0712/DSA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/sathwik0712/DSA/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sathwik0712/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sathwik0712/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sathwik0712/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -73,6 +74,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/sathwik0712/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/sathwik0712/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sathwik0712/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sathwik0712/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sathwik0712/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -128,6 +130,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sathwik0712/DSA/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/sathwik0712/DSA/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -147,4 +150,8 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sathwik0712/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sathwik0712/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
