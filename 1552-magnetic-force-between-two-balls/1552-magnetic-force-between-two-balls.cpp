@@ -7,9 +7,9 @@ public:
                 cnt++;
                 last=position[i];
             }
-        }
-        if(cnt>=m)
+            if(cnt>=m)
             return true;
+        }
         return false;
     }
     int maxDistance(vector<int>& position, int m) {
