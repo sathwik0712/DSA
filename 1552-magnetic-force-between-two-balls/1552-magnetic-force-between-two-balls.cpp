@@ -8,7 +8,7 @@ public:
                 last=position[i];
             }
             if(cnt>=m)
-            return true;
+                return true;
         }
         return false;
     }
