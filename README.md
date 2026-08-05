@@ -43,6 +43,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [1539-kth-missing-positive-number](https://github.com/sathwik0712/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sathwik0712/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sathwik0712/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/sathwik0712/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/sathwik0712/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sathwik0712/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sathwik0712/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -70,6 +71,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [1539-kth-missing-positive-number](https://github.com/sathwik0712/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sathwik0712/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sathwik0712/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/sathwik0712/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/sathwik0712/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sathwik0712/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sathwik0712/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
