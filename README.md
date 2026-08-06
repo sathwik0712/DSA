@@ -162,4 +162,8 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sathwik0712/DSA/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/sathwik0712/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
