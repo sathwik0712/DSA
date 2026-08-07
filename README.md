@@ -47,6 +47,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [1901-find-a-peak-element-ii](https://github.com/sathwik0712/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sathwik0712/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sathwik0712/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2187-minimum-time-to-complete-trips](https://github.com/sathwik0712/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sathwik0712/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sathwik0712/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik0712/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -74,6 +75,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sathwik0712/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/sathwik0712/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sathwik0712/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2187-minimum-time-to-complete-trips](https://github.com/sathwik0712/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sathwik0712/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sathwik0712/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
