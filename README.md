@@ -34,6 +34,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0240-search-a-2d-matrix-ii](https://github.com/sathwik0712/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/sathwik0712/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sathwik0712/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0825-friends-of-appropriate-ages](https://github.com/sathwik0712/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0875-koko-eating-bananas](https://github.com/sathwik0712/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sathwik0712/DSA/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sathwik0712/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -65,6 +66,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0410-split-array-largest-sum](https://github.com/sathwik0712/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sathwik0712/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/sathwik0712/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0825-friends-of-appropriate-ages](https://github.com/sathwik0712/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0875-koko-eating-bananas](https://github.com/sathwik0712/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sathwik0712/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sathwik0712/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -98,10 +100,12 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/sathwik0712/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0825-friends-of-appropriate-ages](https://github.com/sathwik0712/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik0712/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0825-friends-of-appropriate-ages](https://github.com/sathwik0712/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sathwik0712/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sathwik0712/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik0712/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
