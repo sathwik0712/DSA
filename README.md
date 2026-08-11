@@ -135,6 +135,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/sathwik0712/DSA/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/sathwik0712/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sathwik0712/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
@@ -175,4 +176,8 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/sathwik0712/DSA/tree/master/1291-sequential-digits) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sathwik0712/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
