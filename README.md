@@ -50,6 +50,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sathwik0712/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sathwik0712/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/sathwik0712/DSA/tree/master/2187-minimum-time-to-complete-trips) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/sathwik0712/DSA/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sathwik0712/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sathwik0712/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik0712/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -87,6 +88,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0633-sum-of-square-numbers](https://github.com/sathwik0712/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/sathwik0712/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sathwik0712/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/sathwik0712/DSA/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sathwik0712/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sathwik0712/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik0712/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -110,6 +112,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0825-friends-of-appropriate-ages](https://github.com/sathwik0712/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sathwik0712/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sathwik0712/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/sathwik0712/DSA/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik0712/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -153,6 +156,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0011-container-with-most-water](https://github.com/sathwik0712/DSA/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/sathwik0712/DSA/tree/master/0410-split-array-largest-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sathwik0712/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/sathwik0712/DSA/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
