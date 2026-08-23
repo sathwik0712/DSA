@@ -42,6 +42,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sathwik0712/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sathwik0712/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sathwik0712/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/sathwik0712/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sathwik0712/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sathwik0712/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sathwik0712/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -137,6 +138,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sathwik0712/DSA/tree/master/0410-split-array-largest-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/sathwik0712/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sathwik0712/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
