@@ -26,6 +26,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sathwik0712/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sathwik0712/DSA/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/sathwik0712/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sathwik0712/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sathwik0712/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sathwik0712/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -106,6 +107,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sathwik0712/DSA/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/sathwik0712/DSA/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sathwik0712/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/sathwik0712/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0825-friends-of-appropriate-ages](https://github.com/sathwik0712/DSA/tree/master/0825-friends-of-appropriate-ages) |
