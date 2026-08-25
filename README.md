@@ -191,4 +191,12 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/sathwik0712/DSA/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/sathwik0712/DSA/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/sathwik0712/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
