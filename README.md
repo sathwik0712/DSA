@@ -24,6 +24,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sathwik0712/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sathwik0712/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sathwik0712/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/sathwik0712/DSA/tree/master/0027-remove-element) |
@@ -127,6 +128,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sathwik0712/DSA/tree/master/0001-two-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sathwik0712/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
