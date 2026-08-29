@@ -108,6 +108,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sathwik0712/DSA/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sathwik0712/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/sathwik0712/DSA/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sathwik0712/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/sathwik0712/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -198,6 +199,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sathwik0712/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/sathwik0712/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sathwik0712/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sathwik0712/DSA/tree/master/0876-middle-of-the-linked-list) |
