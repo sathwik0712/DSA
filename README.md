@@ -113,6 +113,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0633-sum-of-square-numbers](https://github.com/sathwik0712/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0825-friends-of-appropriate-ages](https://github.com/sathwik0712/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0876-middle-of-the-linked-list](https://github.com/sathwik0712/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sathwik0712/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik0712/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -200,6 +201,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0203-remove-linked-list-elements](https://github.com/sathwik0712/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sathwik0712/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sathwik0712/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sathwik0712/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
