@@ -14,9 +14,8 @@ public:
         if( head->next==NULL)
             return head;
         ListNode* temp=head;
-        ListNode* next=NULL;
         while(temp->next!=NULL){
-            next=temp->next;
+            ListNode* next=temp->next;
             int val=__gcd(temp->val,next->val);
             ListNode* node=new ListNode(val,next); 
             temp->next=node;
