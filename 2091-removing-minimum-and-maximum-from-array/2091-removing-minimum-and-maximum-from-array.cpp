@@ -11,7 +11,6 @@ public:
         int front=max(mini+1,maxi+1);
         int back=nums.size()-min(mini,maxi);
         int both=min(mini+1,maxi+1)+(nums.size()-max(mini,maxi));
-        int temp=min(back,both);
-        return min(front,temp);
+        return min({front,back,both});
     }
 };
