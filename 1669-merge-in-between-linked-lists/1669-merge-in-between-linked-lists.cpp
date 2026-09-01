@@ -15,8 +15,10 @@ public:
         ListNode* end=NULL;
         int count=0;
         while(temp!=NULL){  
-            if(count==b)
+            if(count==b){
                 end=temp->next;
+                break;
+            }
             count++;
             temp=temp->next;
         }
