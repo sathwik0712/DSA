@@ -17,11 +17,11 @@ public:
             count++;
             temp=temp->next;
         }
-        ListNode* temp2=head;
-        while(temp2!=NULL){
-            ans=ans+((temp2->val)*pow(2,count-1));
+         temp=head;
+        while(temp!=NULL){
+            ans=ans+((temp->val)*pow(2,count-1));
             count--;
-            temp2=temp2->next;
+            temp=temp->next;
         }
         return ans;
     }
