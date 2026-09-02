@@ -59,6 +59,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sathwik0712/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sathwik0712/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik0712/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sathwik0712/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [3312-sorted-gcd-pair-queries](https://github.com/sathwik0712/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sathwik0712/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik0712/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sathwik0712/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
