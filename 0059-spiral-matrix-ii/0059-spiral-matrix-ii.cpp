@@ -11,12 +11,16 @@ public:
             for(int i=top;i<=bottom;i++)
                 ans[i][right]=curr++;
             right--;
-            for(int i=right; i>=left;i--)
-                ans[bottom][i]=curr++;
-            bottom--;
-            for(int i=bottom; i>=top;i--)
-                ans[i][left]=curr++;
-            left++;
+             if(top<= bottom){
+                for(int i=right;i>=left;i--)
+                    ans[bottom][i]=curr++;
+                bottom--;
+            }
+            if(left<=right){
+                for(int i=bottom;i>=top;i--)
+                    ans[i][left]=curr++;
+                left++;
+            }
         }
         return ans;
     }
