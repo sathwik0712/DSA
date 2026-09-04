@@ -59,6 +59,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [2187-minimum-time-to-complete-trips](https://github.com/sathwik0712/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/sathwik0712/DSA/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sathwik0712/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2326-spiral-matrix-iv](https://github.com/sathwik0712/DSA/tree/master/2326-spiral-matrix-iv) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sathwik0712/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik0712/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sathwik0712/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -137,6 +138,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sathwik0712/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sathwik0712/DSA/tree/master/0059-spiral-matrix-ii) |
+| [2326-spiral-matrix-iv](https://github.com/sathwik0712/DSA/tree/master/2326-spiral-matrix-iv) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik0712/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -193,6 +195,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0074-search-a-2d-matrix](https://github.com/sathwik0712/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sathwik0712/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/sathwik0712/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2326-spiral-matrix-iv](https://github.com/sathwik0712/DSA/tree/master/2326-spiral-matrix-iv) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -221,6 +224,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [1669-merge-in-between-linked-lists](https://github.com/sathwik0712/DSA/tree/master/1669-merge-in-between-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sathwik0712/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sathwik0712/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/sathwik0712/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sathwik0712/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
