@@ -138,6 +138,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sathwik0712/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sathwik0712/DSA/tree/master/0059-spiral-matrix-ii) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/sathwik0712/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/sathwik0712/DSA/tree/master/2326-spiral-matrix-iv) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik0712/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -224,6 +225,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [1669-merge-in-between-linked-lists](https://github.com/sathwik0712/DSA/tree/master/1669-merge-in-between-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sathwik0712/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sathwik0712/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/sathwik0712/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/sathwik0712/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sathwik0712/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
