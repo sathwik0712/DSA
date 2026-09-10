@@ -121,6 +121,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0011-container-with-most-water](https://github.com/sathwik0712/DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sathwik0712/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/sathwik0712/DSA/tree/master/0027-remove-element) |
+| [0148-sort-list](https://github.com/sathwik0712/DSA/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sathwik0712/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/sathwik0712/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0825-friends-of-appropriate-ages](https://github.com/sathwik0712/DSA/tree/master/0825-friends-of-appropriate-ages) |
@@ -130,6 +131,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/sathwik0712/DSA/tree/master/0148-sort-list) |
 | [0825-friends-of-appropriate-ages](https://github.com/sathwik0712/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sathwik0712/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sathwik0712/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -189,6 +191,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sathwik0712/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/sathwik0712/DSA/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sathwik0712/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -220,6 +223,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sathwik0712/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sathwik0712/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0148-sort-list](https://github.com/sathwik0712/DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/sathwik0712/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sathwik0712/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sathwik0712/DSA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -238,4 +242,8 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0025-reverse-nodes-in-k-group](https://github.com/sathwik0712/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/sathwik0712/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sathwik0712/DSA/tree/master/0206-reverse-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sathwik0712/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
