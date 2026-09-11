@@ -95,6 +95,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sathwik0712/DSA/tree/master/0002-add-two-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/sathwik0712/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/sathwik0712/DSA/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sathwik0712/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -221,6 +222,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sathwik0712/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sathwik0712/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sathwik0712/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/sathwik0712/DSA/tree/master/0148-sort-list) |
@@ -239,6 +241,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sathwik0712/DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sathwik0712/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/sathwik0712/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sathwik0712/DSA/tree/master/0206-reverse-linked-list) |
