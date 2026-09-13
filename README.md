@@ -29,6 +29,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0011-container-with-most-water](https://github.com/sathwik0712/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/sathwik0712/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sathwik0712/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/sathwik0712/DSA/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/sathwik0712/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sathwik0712/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sathwik0712/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -260,4 +261,8 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sathwik0712/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sathwik0712/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/sathwik0712/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
