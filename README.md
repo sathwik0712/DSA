@@ -30,6 +30,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0027-remove-element](https://github.com/sathwik0712/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sathwik0712/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/sathwik0712/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sathwik0712/DSA/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/sathwik0712/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sathwik0712/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sathwik0712/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -135,6 +136,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/sathwik0712/DSA/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/sathwik0712/DSA/tree/master/0148-sort-list) |
 | [0825-friends-of-appropriate-ages](https://github.com/sathwik0712/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sathwik0712/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -265,4 +267,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sathwik0712/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sathwik0712/DSA/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
