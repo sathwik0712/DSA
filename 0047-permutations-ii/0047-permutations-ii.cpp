@@ -2,6 +2,10 @@ class Solution {
 public:
     vector<vector<int>> permuteUnique(vector<int>& nums) {
         vector<vector<int>>res; 
+        if(nums.size()==1){
+            res.push_back(nums);
+            return res;
+        }
         sort(nums.begin(),nums.end());
         do{
             vector<int>temp;
