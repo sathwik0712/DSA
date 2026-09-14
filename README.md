@@ -98,6 +98,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sathwik0712/DSA/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/sathwik0712/DSA/tree/master/0326-power-of-three) |
 | [0633-sum-of-square-numbers](https://github.com/sathwik0712/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/sathwik0712/DSA/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sathwik0712/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -254,6 +255,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0025-reverse-nodes-in-k-group](https://github.com/sathwik0712/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/sathwik0712/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sathwik0712/DSA/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/sathwik0712/DSA/tree/master/0326-power-of-three) |
 ## Merge Sort
 |  |
 | ------- |
