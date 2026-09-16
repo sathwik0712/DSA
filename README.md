@@ -127,6 +127,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0027-remove-element](https://github.com/sathwik0712/DSA/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/sathwik0712/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sathwik0712/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/sathwik0712/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/sathwik0712/DSA/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sathwik0712/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/sathwik0712/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -183,6 +184,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/sathwik0712/DSA/tree/master/0143-reorder-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sathwik0712/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
@@ -236,6 +238,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0025-reverse-nodes-in-k-group](https://github.com/sathwik0712/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/sathwik0712/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sathwik0712/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/sathwik0712/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/sathwik0712/DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/sathwik0712/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sathwik0712/DSA/tree/master/0206-reverse-linked-list) |
@@ -255,6 +258,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sathwik0712/DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sathwik0712/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/sathwik0712/DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/sathwik0712/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sathwik0712/DSA/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/sathwik0712/DSA/tree/master/0326-power-of-three) |
