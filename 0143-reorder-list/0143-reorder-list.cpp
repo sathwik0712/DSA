@@ -35,7 +35,6 @@ public:
         if( head==nullptr || head->next==nullptr)
             return;
         ListNode* first=head;
-        ListNode* temp1=head;
         ListNode* middle=middleNode(head);
         ListNode* second=middle->next;
         middle->next=nullptr;
