@@ -20,7 +20,6 @@ public:
             prev=temp;
             temp=front;
         }
-        // head=temp;
         return prev;
     }
 };
