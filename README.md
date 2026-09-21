@@ -129,6 +129,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0142-linked-list-cycle-ii](https://github.com/sathwik0712/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sathwik0712/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/sathwik0712/DSA/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sathwik0712/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sathwik0712/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/sathwik0712/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0825-friends-of-appropriate-ages](https://github.com/sathwik0712/DSA/tree/master/0825-friends-of-appropriate-ages) |
@@ -160,6 +161,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0001-two-sum](https://github.com/sathwik0712/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sathwik0712/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sathwik0712/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sathwik0712/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sathwik0712/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -242,6 +244,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0142-linked-list-cycle-ii](https://github.com/sathwik0712/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sathwik0712/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/sathwik0712/DSA/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sathwik0712/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sathwik0712/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sathwik0712/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sathwik0712/DSA/tree/master/0237-delete-node-in-a-linked-list) |
