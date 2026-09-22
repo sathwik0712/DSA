@@ -205,6 +205,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sathwik0712/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/sathwik0712/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/sathwik0712/DSA/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sathwik0712/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
@@ -219,6 +220,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sathwik0712/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sathwik0712/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Game Theory
 |  |
@@ -238,6 +240,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0002-add-two-numbers](https://github.com/sathwik0712/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sathwik0712/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sathwik0712/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/sathwik0712/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sathwik0712/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sathwik0712/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sathwik0712/DSA/tree/master/0141-linked-list-cycle) |
@@ -271,6 +274,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sathwik0712/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/sathwik0712/DSA/tree/master/0148-sort-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -282,4 +286,8 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | ------- |
 | [0046-permutations](https://github.com/sathwik0712/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sathwik0712/DSA/tree/master/0047-permutations-ii) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sathwik0712/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
