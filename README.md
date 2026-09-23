@@ -131,6 +131,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0148-sort-list](https://github.com/sathwik0712/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sathwik0712/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sathwik0712/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/sathwik0712/DSA/tree/master/0234-palindrome-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/sathwik0712/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0825-friends-of-appropriate-ages](https://github.com/sathwik0712/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0876-middle-of-the-linked-list](https://github.com/sathwik0712/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -187,6 +188,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/sathwik0712/DSA/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/sathwik0712/DSA/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sathwik0712/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
@@ -250,6 +252,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0160-intersection-of-two-linked-lists](https://github.com/sathwik0712/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sathwik0712/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sathwik0712/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sathwik0712/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sathwik0712/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sathwik0712/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sathwik0712/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -270,6 +273,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0143-reorder-list](https://github.com/sathwik0712/DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/sathwik0712/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sathwik0712/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sathwik0712/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sathwik0712/DSA/tree/master/0326-power-of-three) |
 ## Merge Sort
 |  |
