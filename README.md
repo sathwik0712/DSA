@@ -137,6 +137,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0876-middle-of-the-linked-list](https://github.com/sathwik0712/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sathwik0712/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sathwik0712/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sathwik0712/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik0712/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -190,6 +191,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [0143-reorder-list](https://github.com/sathwik0712/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sathwik0712/DSA/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sathwik0712/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sathwik0712/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -261,6 +263,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms. 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sathwik0712/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sathwik0712/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sathwik0712/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sathwik0712/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sathwik0712/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/sathwik0712/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sathwik0712/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
